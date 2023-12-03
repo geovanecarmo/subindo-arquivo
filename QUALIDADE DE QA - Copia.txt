@@ -1,0 +1,43 @@
+identificar testes (cenarios de teste) com intuição e tecnica.
+
+gestão de teste
+
+report de buggs - saber reportar buggs - GIRA
+
+Scrum - metodologia agil
+
+LINGUAGEM DE PROGRAMAÇÃO - PARA AUTOMATIZAR TESTE
+
+BANCO DE DADOS - SQL
+
+POSTMAN - TESTE DE BACKEND
+
+
+APRENDER TEORIA, CONCEITO DE TESTE
+
+EXCEL
+
+SQL
+
+python
+
+ROBTFREMEWORD
+
+JAVA
+
+cypress 
+
+HTML, CSS
+
+POSTMAN
+GET
+PUT
+DELETE
+
+JIRA
+
+
+
+
+
+
